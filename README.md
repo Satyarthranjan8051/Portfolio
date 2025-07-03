@@ -1,12 +1,53 @@
-# React + Vite
+<!-- Portfolio Website README for Satyarth Ranjan -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Satyarth Ranjan – Personal Portfolio Website
 
-Currently, two official plugins are available:
+Welcome to the source code of my **personal portfolio website**!  
+This portfolio showcases my skills, projects, and background in **AI/ML, Data Visualization, and Full Stack Development**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> 🔗 [Live Website](https://your-portfolio-link.com) — Replace with your actual link
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack Used
+
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- **Animations**: Framer Motion / AOS.js (if used)
+- **Version Control**: Git & GitHub
+- **Deployment**: GitHub Pages / Vercel / Netlify
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](https://your-screenshot-link.com)  
+> Add a screenshot or remove this section
+
+---
+
+## 🧠 Features
+
+- 👋 Personal Introduction
+- 🛠️ Skills and Tools Showcase
+- 📂 Project Highlights with Live Links
+- 📞 Contact Section with Form or Email
+- 🌗 Dark/Light Theme Toggle (if added)
+
+---
+
+## 📁 Folder Structure
+
+```bash
+📦 my-portfolio/
+ ┣ 📂 public/
+ ┣ 📂 src/
+ ┃ ┣ 📂 components/
+ ┃ ┃ ┣ 📜 Navbar.jsx
+ ┃ ┃ ┣ 📜 Hero.jsx
+ ┃ ┃ ┣ 📜 Projects.jsx
+ ┃ ┃ ┗ 📜 Footer.jsx
+ ┃ ┣ 📜 App.jsx
+ ┃ ┗ 📜 index.js
+ ┣ 📜 README.md
+ ┣ 📜 package.json
+ ┗ 📜 tailwind.config.js
